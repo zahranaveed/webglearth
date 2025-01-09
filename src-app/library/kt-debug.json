@@ -1,0 +1,12 @@
+{
+  "id": "kt-debug",
+  "inherits": "kt.json",
+
+  "define": {
+    "goog.DEBUG": true,
+    "kt.expose.GENERATE": true
+  },
+
+  "pretty-print": true,
+  "debug": true
+}
